@@ -1,7 +1,9 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+- jekyll-feed
 
+permalink: /:title/
 owner:
   name: Amirsalar Darvishpour
 #   avatar: hanlin.jpg
@@ -15,5 +17,3 @@ linkes:
     url: "/"
   - title: "experiences"
     url: "/experiences/"
-
-permalink:   /:categories/:title
