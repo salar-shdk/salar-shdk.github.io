@@ -15,3 +15,5 @@ linkes:
     url: "/"
   - title: "experiences"
     url: "/experiences/"
+
+permalink:   /:categories/:title
