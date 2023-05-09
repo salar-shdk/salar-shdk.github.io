@@ -10,9 +10,8 @@ owner:
   github: salar-shdk
   linkedin: salar-darvish
 
-minimal:
-  navigation:
-    - title: "home"
-      url: "/"
-    - title: "experiences"
-      url: "/experiences/"
+linkes:
+  - title: "home"
+    url: "/"
+  - title: "experiences"
+    url: "/experiences/"
