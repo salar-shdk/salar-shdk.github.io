@@ -9,3 +9,10 @@ owner:
   email: amir.shdk@yahoo.com
   github: salar-shdk
   linkedin: salar-darvish
+
+minimal:
+  navigation:
+    - title: "home"
+      url: "/"
+    - title: "experiences"
+      url: "/experiences/"
