@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amirsalar Darvishpour</title>
+    <link>http://salar-shdk.github.io/</link>
+    <description>Recent content on Amirsalar Darvishpour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://salar-shdk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://salar-shdk.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://salar-shdk.github.io/contact/</guid>
+      <description>Contact Me 📧 Email: amir.shdk@yahoo.com
+💬 Telegram: @salar_shdk
+🌐 LinkedIn: @salar-darvish
+🐙 GitHub: salar-shdk</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://salar-shdk.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://salar-shdk.github.io/cv/</guid>
+      <description>Work Experience Software Developer Mahsan Co. Feb 2020 - Oct 2022
+Designed and implemented a Linux OS based on Ubuntu with features including but not limited to Autoinstall, Snapshot, Filesystem encryption and decryption in initramfs, Anti Theft. (Tech Stack: Cpp, Python, Qemu, Docker, Luks) Worked on a framework for high-speed packet I/O. (Tech Stack: Cpp , Docker) Software Developer / Team Lead Zhino Intelligent Solutions Jun 2018 - Feb 2020</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://salar-shdk.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://salar-shdk.github.io/projects/</guid>
+      <description>Projects - NIA | github
+NIA is a Python package that offers Nature-Inspired Optimization Algorithms, streamlining the optimization process and optimizing its speed.
+Solving ackley using genetic algorithm:
+- Face Mask Detection | github
+The Face Mask Detection project is a powerful tool designed to accurately determine whether an individual is wearing a face mask or not.
+- phyllotaxis | github
+Phyllotaxis is the intriguing pattern that occurs in certain plants, such as the daisy flower.</description>
+    </item>
+    
+  </channel>
+</rss>
